@@ -1,1 +1,1 @@
-# formal-logic-experiments
+# formal logic experiments
